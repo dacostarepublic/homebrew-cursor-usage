@@ -1,6 +1,6 @@
 cask "cursor-usage" do
-  version "1.0.1"
-  sha256 "6fcbfc90f84599db0bb92ce5ca5eed4bc307e94a9c03229f92aa2dec1106be8d"
+  version "1.0.2"
+  sha256 "779c380153ee78df44cdeb627311213937638cc993cd005be81ba9e142b74298"
 
   url "https://github.com/dacostarepublic/homebrew-cursor-usage/releases/download/v#{version}/CursorUsage-#{version}.dmg"
   name "Cursor Usage"
